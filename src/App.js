@@ -78,7 +78,7 @@ function App() {
         <Header favorites={favorites} />
 
         <Routes>
-          <Route path="/" element={<Login />} />
+          <Route path="/" element={<Listado />} />
           <Route
             path="listado"
             element={<Listado addOrRemoveFromFav={addOrRemoveFromFav} />}

@@ -51,7 +51,7 @@ function Login() {
               <div className="card bg-dark text-white">
                 <div className="card-body p-5 text-center">
                   <div className="mb-md-5 mt-md-4 pb-5">
-                    <h2 className="fw-bold mb-2 text-uppercase">Login2</h2>
+                    <h2 className="fw-bold mb-2 text-uppercase">Login</h2>
 
                     <form onSubmit={submitHandler}>
                       <div className="form-outline form-white mb-4">
